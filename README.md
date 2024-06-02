@@ -12,8 +12,8 @@ Note: Make sure you have installed native code dependencies [here](https://react
 
 This Application Presents a close replica of the UI interface given in the assignment. It also features unique interactive features.
 
-Frame1.js
-This file components consists of the makeup of the upper part of the UI of this app...
-i.e "Hello Devs", 14 Tasks Today etc
 
+
+![screenshot](https://github.com/Josephine-Akua/rn-assignment3-11253242/assets/152289011/d2d6e6d1-e923-4d51-96bb-a7c871c0c537)
+![DCIT202](https://github.com/Josephine-Akua/rn-assignment3-11253242/assets/152289011/61c58d4b-2b11-44a4-b051-f704cf650d93)
 
